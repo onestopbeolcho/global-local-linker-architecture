@@ -1,0 +1,8 @@
+{
+  "name": "Global Local-Linker Master Toolkit",
+  "description": "현지인 마스터가 답변을 작성하고 미션을 수행하기 위한 전문 툴킷",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
